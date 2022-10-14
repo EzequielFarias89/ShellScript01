@@ -1,2 +1,2 @@
 # ShellScript01
-Curso Alura ShellScriting parte 1: Scripts de automação de tarefas
+Curso Alura ShellScripting parte 1: Scripts de automação de tarefas
